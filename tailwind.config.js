@@ -6,6 +6,9 @@ module.exports = {
 		// colors: {
 		// 	'indigo': '#5978f3'
 		// }
+		colors: {
+			'grey-lighter': '#f3f7f9'
+		}
 	},
   },
   variants: {
